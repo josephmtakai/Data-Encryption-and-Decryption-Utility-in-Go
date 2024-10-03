@@ -1,0 +1,4 @@
+data-encryption-utility/
+├── main.go
+├── encryption.go
+└── utils.go
